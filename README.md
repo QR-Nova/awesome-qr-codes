@@ -35,6 +35,7 @@ Web-based tools for generating QR codes without writing code. Most offer both st
 - [ME-QR](https://me-qr.com/) - Free generator supporting dynamic codes, Google Analytics integration, and a digital menu builder.
 - [Scanova](https://scanova.io/) - Business-oriented platform with 16+ QR code types, white-label options, and API access.
 - [GoQR.me](https://goqr.me/) - Simple generator and REST API (`api.qrserver.com`) for programmatic PNG/SVG/EPS generation; no account required.
+- [Bulk QR Code Generator for Excel and CSV](https://www.bulkqrcodegenerator.art/) - Batch-generates QR codes and Code 128 barcodes from spreadsheet rows, with ZIP, PDF, and SVG export.
 
 ---
 
